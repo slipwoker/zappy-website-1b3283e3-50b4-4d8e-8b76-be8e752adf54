@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://inbar-1b3283e3.zappy5.app
+https://example.com
 חנות הגיימינג אונליין Inbar מביאה לך ציוד גיימינג ואביזרים מעוצבים לחוויית משחק בלתי מתפשרת. היכנס עכשיו ושדרג את הלייף סטייל שלך!
 
 ### למה ענבר
-https://inbar-1b3283e3.zappy5.app/why-inbar
+https://example.com/why-inbar
 ב-Inbar אנחנו מבינים גיימרים כבדים. גלה למה חנות הגיימינג אונליין שלנו היא הבחירה מספר אחת לקהילה עם ציוד מותאם אישית ושירות מנצח. בוא לראות!
 
 ### לייף סטייל גיימינג
-https://inbar-1b3283e3.zappy5.app/gaming-lifestyle
+https://example.com/gaming-lifestyle
 ב-Inbar תמצא ציוד גיימינג ואביזרים שמחברים בין עולם המשחק לחיים עצמם. שדרג את הלייף סטייל שלך עם מוצרים שיהפכו כל רגע למיוחד. כנס עכשיו!
 
 ### צור קשר
-https://inbar-1b3283e3.zappy5.app/contact
+https://example.com/contact
 יש לך שאלות על ציוד גיימינג? ב-Inbar אנחנו כאן להקשיב ולעזור. צור קשר עכשיו וקבל ייעוץ אישי שישדרג את חוויית המשחק שלך!
 
 ### Products
-https://inbar-1b3283e3.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Inbar
 
 ### Cart
-https://inbar-1b3283e3.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://inbar-1b3283e3.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://inbar-1b3283e3.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://inbar-1b3283e3.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://inbar-1b3283e3.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://inbar-1b3283e3.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Inbar
 
 ### Category
-https://inbar-1b3283e3.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Inbar
 
 ### תודה על פנייתך
-https://inbar-1b3283e3.zappy5.app/thank-you
+https://example.com/thank-you
 Inbar - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://inbar-1b3283e3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://inbar-1b3283e3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://inbar-1b3283e3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://inbar-1b3283e3.zappy5.app/sitemap.xml
-- Robots: https://inbar-1b3283e3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://inbar-1b3283e3.zappy5.app/llms-full.txt
-- Products (JSON): https://inbar-1b3283e3.zappy5.app/products.json
-- Products (Google Merchant RSS): https://inbar-1b3283e3.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
